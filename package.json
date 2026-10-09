@@ -1,20 +1,20 @@
 {
-  "name": "zotero-plugin-template",
+  "name": "Reading Notes",
   "type": "module",
   "version": "3.1.0",
-  "description": "Zotero Plugin Template",
+  "description": "Read novel in Zotero",
   "config": {
-    "addonName": "Zotero Plugin Template",
-    "addonID": "addontemplate@euclpts.com",
-    "addonRef": "addontemplate",
-    "addonInstance": "AddonTemplate",
-    "prefsPrefix": "extensions.zotero.addontemplate"
+    "addonName": "Reading Notes",
+    "addonID": "novel@yourname.dev",
+    "addonRef": "readingnotes",
+    "addonInstance": "ReadingNotes",
+    "prefsPrefix": "extensions.zotero.readingnotes"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/windingwind/zotero-plugin-template.git"
   },
-  "author": "windingwind",
+  "author": "Yuang Lu",
   "bugs": {
     "url": "https://github.com/windingwind/zotero-plugin-template/issues"
   },

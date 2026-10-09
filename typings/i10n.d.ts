@@ -13,6 +13,8 @@ export type FluentMessageId =
   | 'menuitem-label'
   | 'menuitem-submenulabel'
   | 'menupopup-label'
+  | 'novel-header'
+  | 'novel-sidenav'
   | 'pref-enable'
   | 'pref-help'
   | 'pref-input'
